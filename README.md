@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/ryanalexandregabriel%40gmail.com-2b79ff?style=flat-square&logoColor=00875f&link=mailto%3Aryanalexandregabriel%40gmail.com
 )]()
 
-React JS Developer
+Front-End Developer
 
 Welcome to my profile, I'm Ryan, Front-End Developer from Brazil, with ambitions to learn more every day in the world of programming and be the best at what I do.
 
