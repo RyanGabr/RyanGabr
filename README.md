@@ -10,4 +10,4 @@ Welcome to my profile, I'm Ryan, Front-End Developer from Brazil, with ambitions
 
 ## Language and Tools
 
-React | TypeScript | JavaScript | Tailwindcss | HTML | CSS | Figma | Photoshop
+React | TypeScript | JavaScript | Tailwindcss | HTML | CSS | Figma
