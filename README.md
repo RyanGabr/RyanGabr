@@ -6,8 +6,6 @@ Desenvolvedor Front-End
 [![Gmail Badge](https://img.shields.io/badge/ryanalexandregabriel%40gmail.com-2b79ff?style=flat-square&logoColor=00875f&link=mailto%3Aryanalexandregabriel%40gmail.com
 )]()
 
-Bem-vindo ao meu perfil, sou Ryan, Desenvolvedor Front-End, especializado na criação de interfaces intuitivas, responsivas e acessíveis, unindo design e tecnologia para oferecer experiências digitais de alta qualidade. Com ambições de aprender mais a cada dia no mundo da programação e ser o melhor no que faço.
+Desenvolvedor Front-End especializado na criação de interfaces intuitivas, responsivas e acessíveis.
 
-Linguagens e ferramentas que trabalho:
-
-React | TypeScript | JavaScript | Tailwind | APIs REST | HTML | CSS
+Combino design e tecnologia para entregar experiências digitais de alta qualidade, sempre com o objetivo de aprender e evoluir a cada dia no mundo da programação, buscando ser o melhor no que faço.
