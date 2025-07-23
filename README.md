@@ -1,7 +1,5 @@
 # Ryan Gabriel
 
-Desenvolvedor Front-End
-
 [![Portfolio Badge](https://img.shields.io/badge/Portf%C3%B3lio-2b79ff?style=flat-square&logoColor=00875f&link=mailto%3A)](https://ryangabr.vercel.app)
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-2b79ff?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryangabr)
 [![Gmail Badge](https://img.shields.io/badge/ryanalexandregabriel%40gmail.com-2b79ff?style=flat-square&logoColor=00875f&link=mailto%3Aryanalexandregabriel%40gmail.com
